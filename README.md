@@ -1,0 +1,1 @@
+# char-e-string-teste.c
